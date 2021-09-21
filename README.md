@@ -1,7 +1,12 @@
 ### Hello traveler welcome to my hub 👋
 
 - I've been programming since I was 14 and I am really interested in game development and machine learning.
-- 📫 How to reach me: https://www.linkedin.com/in/batuhan-gumus/
+- 📫 How to reach me: [LinkedIn][LinkedIn]
+
+
+
+
+[LinkedIn]: https://www.linkedin.com/in/batuhan-gumus/
 
 <!--
 **BatuhanGumus/BatuhanGumus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
