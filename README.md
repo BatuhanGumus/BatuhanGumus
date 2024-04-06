@@ -1,4 +1,4 @@
-### Hello traveler welcome to my hub 👋
+### Hello traveler welcome to my github 👋
 
 - I've been programming since I was 14 and I am really interested in game development and machine learning.
 - 📫 How to reach me: [LinkedIn][LinkedIn]
