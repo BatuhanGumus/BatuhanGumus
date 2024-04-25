@@ -7,7 +7,7 @@
  <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=donut-vertical&hide=c,Objective-C" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BatuhanGumus" />
