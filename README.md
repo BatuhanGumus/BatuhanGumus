@@ -3,6 +3,8 @@
 - I've been programming since I was 14 and I am really interested in game development and machine learning.
 - 📫 How to reach me: [LinkedIn][LinkedIn]
 
+  [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider)](https://skillicons.dev)
+
  <!-- [![Batuhans's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanGumus)](https://github.com/anuraghazra/github-readme-stats) -->
  <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C) -->
 
@@ -14,7 +16,7 @@
 </a>
 
 
- <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+ 
           
 
 
