@@ -3,6 +3,8 @@
 - I've been programming since I was 14 and I am really interested in game development and machine learning.
 - 📫 How to reach me: [LinkedIn][LinkedIn]
 
+  [![Batuhans's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanGumus)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
