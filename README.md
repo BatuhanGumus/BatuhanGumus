@@ -1,4 +1,4 @@
-### Hello traveler welcome to my github 👋
+ ### Hello traveler welcome to my github 👋
 
 - I've been programming since I was 14 and I am really interested in game development and machine learning.
 - 📫 How to reach me: [LinkedIn][LinkedIn]
@@ -7,10 +7,10 @@
  <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C" />
+  <img height=150  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=BatuhanGumus&show_icons=true&hide=stars" />
+  <img height=150  align="center" src="https://github-readme-stats.vercel.app/api?username=BatuhanGumus&show_icons=true&hide=stars" />
 </a>
 
 
