@@ -2,8 +2,8 @@
 > Profile Under Construction
 
 # Batuhan Gumus
-✔️ 5+ years of experience
-✔️ 4 released games
+✔️ 5+ years of experience \n
+✔️ 4 released games \n
 ✔️ In-depth Unity knowladge
 
 ### Socials & Contact
