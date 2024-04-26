@@ -14,7 +14,7 @@
   <img height=160  align="center" src="https://github-readme-stats-six-theta-96.vercel.app/api/top-langs/?username=BatuhanGumus&layout=donut&hide=c,Objective-C" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160  align="center" src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider" />
+  <img height=160  align="center" src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider&perline=3" />
 </a>
 
 
