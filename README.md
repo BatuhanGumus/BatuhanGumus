@@ -15,7 +15,7 @@ Please check out [BatuhanGumus.com](https://batuhangumus.com/) for more details 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider)](#)
 
 [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake&theme=nord)](#)
-<img width=350 height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake&theme=nord" />
+
 
 <!--
 **BatuhanGumus/BatuhanGumus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,7 @@ https://github.com/Ileriayo/markdown-badges?source=post_page-----36957caa711c---
 https://github.com/tandpfun/skill-icons
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
 
-
+<img width=350 height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake&theme=nord" />
 -->
  <!-- [![Batuhans's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanGumus)](https://github.com/anuraghazra/github-readme-stats) -->
  <!-- ![Top Langs](https://github-readme-stats-six-theta-96.vercel.app/api/top-langs/?username=BatuhanGumus&layout=donut&hide=c,Objective-C) -->
