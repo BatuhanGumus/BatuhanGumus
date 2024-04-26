@@ -1,6 +1,3 @@
-> [!WARNING]
-> Profile Under Construction
-
 > # Batuhan Gumus &ensp; · &ensp; Software Engineer / Game Developer
 ✔️ 5+ years of experience
 
