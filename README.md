@@ -1,5 +1,4 @@
-> # Batuhan Gumus &emsp;
-> ## Software Engineer / Game Developer
+> # Software Engineer / Game Developer
 ✔️ 5+ years of game dev experience
 
 ✔️ Release and maintanance experience on 4 games
