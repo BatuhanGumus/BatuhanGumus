@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider)](#)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   - 5+ years of experience
   - 4 released games
   - In-depth Unity knowladge
