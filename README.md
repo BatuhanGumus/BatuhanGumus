@@ -3,18 +3,12 @@
 - I've been programming since I was 14 and I am really interested in game development and machine learning.
 - 📫 How to reach me: [LinkedIn][LinkedIn]
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider)](#)
-
- <!-- [![Batuhans's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanGumus)](https://github.com/anuraghazra/github-readme-stats) -->
- <!-- ![Top Langs](https://github-readme-stats-six-theta-96.vercel.app/api/top-langs/?username=BatuhanGumus&layout=donut&hide=c,Objective-C)-->
-
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160  align="center" src="https://github-readme-stats-six-theta-96.vercel.app/api/top-langs/?username=BatuhanGumus&layout=donut&hide=c,Objective-C" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160  align="center" src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider&perline=3" />
+  <img height=160  align="center" src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider&perline=5" />
 </a>
 
 
@@ -39,3 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <!-- [![Batuhans's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanGumus)](https://github.com/anuraghazra/github-readme-stats) -->
+ <!-- ![Top Langs](https://github-readme-stats-six-theta-96.vercel.app/api/top-langs/?username=BatuhanGumus&layout=donut&hide=c,Objective-C) -->
+ <!-- [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider)](#) -->
