@@ -11,7 +11,7 @@
   <img width=30/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=245 src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider&perline=5" />
+  <img height=245 src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider&perline=4" />
 </a>
 
 
