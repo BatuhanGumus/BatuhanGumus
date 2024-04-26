@@ -1,4 +1,4 @@
-> # Batuhan Gumus &ensp; · &ensp; Software Engineer / Game Developer
+> # Batuhan Gumus &emsp; Software Engineer / Game Developer
 ✔️ 5+ years of experience
 
 ✔️ 4 released games
