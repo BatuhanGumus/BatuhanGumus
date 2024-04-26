@@ -19,7 +19,7 @@
 
 [![dark mode stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET&theme=holi#gh-dark-mode-only)](#gh-dark-mode-only)
 [![light mode stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET&theme=graywhite#gh-light-mode-only)](#gh-light-mode-only)
-
+[![Batuhans's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanGumus)](#)
 
 <!--
 **BatuhanGumus/BatuhanGumus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
