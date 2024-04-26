@@ -6,14 +6,10 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider)](#)
 
 
-<a>
-  - 5+ years of experience
-  - 4 released games
-  - In-depth Unity knowladge
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width=350 height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake" />
-</a>
+- 5+ years of experience
+- 4 released games
+- In-depth Unity knowladge
+<img width=350 height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake" />
 
 
  
