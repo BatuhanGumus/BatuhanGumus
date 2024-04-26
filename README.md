@@ -12,7 +12,7 @@
   <img height=160  align="center" src="https://github-readme-stats-six-theta-96.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160  align="center" src="https://github-readme-stats-six-theta-96.vercel.app/api?username=BatuhanGumus&show_icons=true&hide=stars" />
+  <img height=160  align="center" src="https://github-readme-stats-six-theta-96.vercel.app/api?username=BatuhanGumus&show_icons=true&hide=stars&include_all_commits=true" />
 </a>
 
 
