@@ -41,6 +41,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#designer
+https://github.com/badges/shields?tab=readme-ov-file
+https://github.com/Ileriayo/markdown-badges?source=post_page-----36957caa711c--------------------------------
+https://github.com/tandpfun/skill-icons
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
+
+
 -->
  <!-- [![Batuhans's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanGumus)](https://github.com/anuraghazra/github-readme-stats) -->
  <!-- ![Top Langs](https://github-readme-stats-six-theta-96.vercel.app/api/top-langs/?username=BatuhanGumus&layout=donut&hide=c,Objective-C) -->
