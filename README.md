@@ -12,7 +12,7 @@ Please check out [BatuhanGumus.com](https://batuhangumus.com/) for more details 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batu.gms.prof@gmail.com)
 
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider)](#)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,javascript,vscode,rider)](#)
 
 [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET&theme=nord)](#)
 
