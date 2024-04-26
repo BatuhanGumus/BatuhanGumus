@@ -1,8 +1,10 @@
  # Software Engineer | Game Developer
  
-> ✔️ 5+ years of game dev experience.
-> ✔️ Release and maintanance experience on 4 games.
-> ✔️ In-depth Unity knowladge.
+ ✔️ 5+ years of game dev experience.
+ 
+ ✔️ Release and maintanance experience on 4 games.
+ 
+ ✔️ In-depth Unity knowladge.
 
 Please check out [BatuhanGumus.com](https://batuhangumus.com/) for more details on my expereince and resume!
 
