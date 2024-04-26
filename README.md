@@ -3,12 +3,16 @@
 - I've been programming since I was 14 and I am really interested in game development and machine learning.
 - 📫 How to reach me: [LinkedIn][LinkedIn]
 
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider)](#)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=350 height=180 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake" />
+  - 5+ years of experience
+  - 4 released games
+  - In-depth Unity knowladge
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider&perline=5" />
+  <img width=350 height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake" />
 </a>
 
 
