@@ -14,7 +14,7 @@
 - 4 released games
 - In-depth Unity knowladge
 
-<img width=350 height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake&theme=github_dark" />
+<img width=350 height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake&theme=nord" />
 
  
           
