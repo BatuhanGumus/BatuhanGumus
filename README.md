@@ -7,7 +7,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=400  src="https://github-readme-stats-six-theta-96.vercel.app/api/top-langs/?username=BatuhanGumus&layout=donut&hide=c,Objective-C&exclude_repo=vrchat,boom-" />
 </a>
-<a width=10/>
+<a width=40/>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=245 src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider&perline=4" />
 </a>
