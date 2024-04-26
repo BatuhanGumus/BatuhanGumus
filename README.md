@@ -2,9 +2,9 @@
 > Profile Under Construction
 
 # Batuhan Gumus
-- 5+ years of experience
-- 4 released games
-- In-depth Unity knowladge
+✔️ 5+ years of experience
+✔️ 4 released games
+✔️ In-depth Unity knowladge
 
 ### Socials & Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-gumus/)
