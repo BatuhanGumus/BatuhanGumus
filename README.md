@@ -17,9 +17,8 @@
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,javascript,vscode,rider)](#)
 
-[![dark mode language stats](https://github-readme-stats-omega-green-72.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,SCSS,Pug&theme=holi#gh-dark-mode-only)](#gh-dark-mode-only)
-[![dark mode language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET&theme=holi#gh-dark-mode-only)](#gh-dark-mode-only)
-[![light mode language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET&theme=graywhite#gh-light-mode-only)](#gh-light-mode-only)
+[![dark mode language stats](https://github-readme-stats-omega-green-72.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,SCSS,Pug&exclude_repo=BOOM-&theme=holi#gh-dark-mode-only)](#gh-dark-mode-only)
+[![light mode language stats](https://github-readme-stats-omega-green-72.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,SCSS,Pug&exclude_repo=BOOM-&theme=graywhite#gh-light-mode-only)](#gh-light-mode-only)
 [![dark mode hub stats](https://github-readme-stats-omega-green-72.vercel.app/api?username=BatuhanGumus&show_icons=true&hide=issues&hide_rank=true&include_all_commits=true&hide_title=true&line_height=30&theme=holi#gh-dark-mode-only)](#gh-dark-mode-only)
 [![light mode hub stats](https://github-readme-stats-omega-green-72.vercel.app/api?username=BatuhanGumus&show_icons=true&hide=issues&hide_rank=true&include_all_commits=true&hide_title=true&line_height=30#gh-light-mode-only)](#gh-light-mode-only)
 
