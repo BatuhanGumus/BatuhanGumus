@@ -1,12 +1,13 @@
  # Software Engineer | Game Developer
- 
+
+ ### Check out [BatuhanGumus.com](https://batuhangumus.com/) for details on my expereince and resume!
  ✔️ 5+ years of game dev experience.
  
  ✔️ Release and maintanance experience on 4 games.
  
  ✔️ In-depth Unity knowladge.
 
-Please check out [BatuhanGumus.com](https://batuhangumus.com/) for more details on my expereince and resume!
+
 
 ### Socials & Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-gumus/)
