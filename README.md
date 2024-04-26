@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake" />
+  <img width=350 height=180 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 src="https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider&perline=5" />
