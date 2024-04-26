@@ -6,6 +6,8 @@
 - I've been programming since I was 14 and I am really interested in game development and machine learning.
 - 📫 How to reach me: [LinkedIn][LinkedIn]
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-gumus/)
+
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider)](#)
 
 
