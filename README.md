@@ -5,7 +5,7 @@
  
  ✔️ Release and maintanance experience on 4 games
  
- ✔️ In-depth Unity knowladge
+ ✔️ In-depth Unity, C#, C++ knowladge
 
 
 
