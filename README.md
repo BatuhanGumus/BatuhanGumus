@@ -7,7 +7,7 @@
 - 📫 How to reach me: [LinkedIn][LinkedIn]
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-gumus/)
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=black)](https://batuhangumus.com/)
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://batuhangumus.com/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Batuhan_gms_p)
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider)](#)
