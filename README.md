@@ -1,32 +1,21 @@
 > [!WARNING]
 > Profile Under Construction
 
-### Hello traveler welcome to my github 👋
+# Batuhan Gumus
+- 5+ years of experience
+- 4 released games
+- In-depth Unity knowladge
 
-- I've been programming since I was 14 and I am really interested in game development and machine learning.
-- 📫 How to reach me: [LinkedIn][LinkedIn]
-
+## Socials & Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-gumus/)
 [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://batuhangumus.com/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Batuhan_gms_p)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batu.gms.prof@gmail.com)
 
+## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider)](#)
 
-
-
-- 5+ years of experience
-- 4 released games
-- In-depth Unity knowladge
-
 <img width=350 height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake&theme=nord" />
-
- 
-          
-
-
-
-[LinkedIn]: https://www.linkedin.com/in/batuhan-gumus/
 
 <!--
 **BatuhanGumus/BatuhanGumus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
