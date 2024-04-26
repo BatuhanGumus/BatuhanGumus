@@ -14,7 +14,7 @@ Please check out [BatuhanGumus.com](https://batuhangumus.com/) for more details 
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,unity,unreal,git,blender,html,css,vscode,rider)](#)
 
-[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET,CMake&theme=nord)](#)
+[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanGumus&layout=compact&hide=c,Objective-C,ASP.NET&theme=nord)](#)
 
 
 <!--
