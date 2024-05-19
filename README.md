@@ -3,7 +3,7 @@
  ### Check out [BatuhanGumus.com](https://batuhangumus.com/) for details on my expereince and resume!
  ✔️ **5+ years** of game dev experience
  
- ✔️ Release and maintanance experience on **4 games**
+ ✔️ Released & maintananed **4 games**
  
  ✔️ In-depth **Unity**, **C#**, **C++** knowladge
 
