@@ -24,8 +24,8 @@
 <!--
 Shields (didn't use):    https://github.com/badges/shields?tab=readme-ov-file
 Skill Icons:    https://github.com/tandpfun/skill-icons
+stats: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
 Badges:    
       https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#designer
       https://github.com/Ileriayo/markdown-badges?source=post_page-----36957caa711c--------------------------------
-      https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
 -->
