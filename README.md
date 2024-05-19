@@ -5,7 +5,7 @@
  
  ✔️ Released & maintained **4 games**
  
- ✔️ In-depth **Unity**, **C#**, **C++** knowladge
+ ✔️ In-depth **Unity**, **C#**, **C++** knowledge
 
 
 ### Socials & Contact
