@@ -1,7 +1,7 @@
  # Software Engineer / Game Developer
 
  ### Check out [BatuhanGumus.com](https://batuhangumus.com/) for details on my expereince and resume!
- ✔️ **5+ years** of game dev experience
+ ✔️ **6+ years** of game dev experience
  
  ✔️ Released & maintained **4 games**
  
